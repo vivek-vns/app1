@@ -1,0 +1,17 @@
+ Update
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed Feb 5 15:03:38 2020 +0530
+#
+# On branch a
+# Last commands done (2 commands done):
+#    pick f87c359 this is conflict testing
+#    pick fdd74f4 Update t1.php
+# No commands remaining.
+# You are currently editing a commit while rebasing branch 'master' on 'ad017a5'.
+#
+# Changes to be committed:
+#	modified:   t1.php
+#
