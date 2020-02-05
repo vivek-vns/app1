@@ -5,4 +5,5 @@
 	echo "New change in dev branch";
 	echo "Local change has done";
 	echo "Hi this is a testing and what do well";
+	echo "This is a testing confilct";
 ?>
